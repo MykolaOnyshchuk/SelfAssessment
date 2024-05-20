@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object` *
-  - `Function` *
-  - `Boolean` *
-  - `Number` *
-  - `BigInt`*
-  - `String`*
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
   - `Symbol`
   - `Infinity`
-  - `NaN` *
-  - `undefined` *
-  - `null` *
-  - `this` *
-  - `instanceof` *
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`: 🖐️ used
   - `...spread`
   - `...rest`
-  - `typeof` *
+  - `typeof`: 🖐️ used
   - Destructuring
   - Generators
   - Iterators
@@ -32,16 +32,16 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators *
-  - Logical operators *
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment
-  - Bitwise operators *
-  - Ternary operator *
-  - `void` *
+  - Bitwise operators: 🖐️ used
+  - Ternary operator: 🖐️ used
+  - `void`: 🖐️ used
   - `yield`
-  - `await` *
+  - `await`: 🖐️ used
   - Template literal
-  - Strict mode *
+  - Strict mode: 🖐️ used
   - Hoisting
   - `delete`
   - `in`
@@ -59,27 +59,27 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` *
-  - `while` *
-  - `do..while` *
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
   - `for`
   - `for..in`
   - `for..of`
   - `for await`
-  - `throw` *
-  - `break` *
-  - `continue` *
-  - `import` *
-  - `export` *
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
   - `label`
-  - `try..catch` *
-  - `switch` *
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
   - `class`
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function *
+  - Arrow function: 🖐️ used
   - Async function
   - Function declaration
   - Function expression
@@ -88,9 +88,9 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` *
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` *
+  - `Array`: 🖐️ used
   - `Map`
   - `Set`
   - `WeakMap`
@@ -114,9 +114,9 @@
   - `console`
   - Timers
 - Infrastructure
-  - V8 ~
-  - Node.js ~
-  - npm *
-  - prettier *
+  - V8: 👂 heard
+  - Node.js: 👂 heard
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN
   - TC39

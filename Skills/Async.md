@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop *
-  - `try..catch` *
-  - Non-blocking *
-  - Async I/O *
-  - Thread pool *
+  - Event loop: 🖐️ used
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🖐️ used
+  - Async I/O: 🖐️ used
+  - Thread pool: 🖐️ used
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -13,31 +13,31 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions +
-  - Dead locks +
+  - Race conditions: 🎓 known
+  - Dead locks: 🎓 known
   - Live locks
-  - Concurrent programming *
-  - Parallel programming *
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Actor Model
-  - Thread *
-  - Process 
+  - Thread: 🖐️ used
+  - Process
 - Async contracts
-  - Callbacks *
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise +
-  - Async/await *
-  - Future ~
+  - Promise: 🎓 known
+  - Async/await: 🖐️ used
+  - Future: 👂 heard
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event +
-  - Coroutine +
-  - Goroutine +
+  - Event: 🎓 known
+  - Coroutine: 🎓 known
+  - Goroutine: 🎓 known
   - Signal
-  - Stream ~
-  - Chain of responsibility +
+  - Stream: 👂 heard
+  - Chain of responsibility: 🎓 known
   - Middleware
   - Locks
 - Async adapters and utils
@@ -48,7 +48,7 @@
   - Async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer *
+  - Observable/Observer: 🖐️ used
   - Readable
   - Writable
   - Transform
@@ -56,7 +56,7 @@
   - Async Queue
   - Async Collector
   - Semaphore
-  - Mutex ~
+  - Mutex: 👂 heard
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
