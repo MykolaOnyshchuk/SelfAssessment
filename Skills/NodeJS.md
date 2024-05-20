@@ -12,8 +12,8 @@
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - ECMAScript modules ~
+  - Module `node:module` ~
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
@@ -71,7 +71,7 @@
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket *
   - SSE
   - HTTP/3 (QUIC)
   - Long polling

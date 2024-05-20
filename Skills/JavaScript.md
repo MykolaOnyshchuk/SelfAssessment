@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
+  - `Object` *
+  - `Function` *
+  - `Boolean` *
+  - `Number` *
+  - `BigInt`*
+  - `String`*
   - `Symbol`
   - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
+  - `NaN` *
+  - `undefined` *
+  - `null` *
+  - `this` *
+  - `instanceof` *
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof` *
   - Destructuring
   - Generators
   - Iterators
@@ -32,16 +32,16 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators *
+  - Logical operators *
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Bitwise operators *
+  - Ternary operator *
+  - `void` *
   - `yield`
-  - `await`
+  - `await` *
   - Template literal
-  - Strict mode
+  - Strict mode *
   - Hoisting
   - `delete`
   - `in`
@@ -59,27 +59,27 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
+  - `if` *
+  - `while` *
+  - `do..while` *
   - `for`
   - `for..in`
   - `for..of`
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `throw` *
+  - `break` *
+  - `continue` *
+  - `import` *
+  - `export` *
   - `label`
-  - `try..catch`
-  - `switch`
+  - `try..catch` *
+  - `switch` *
   - `class`
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function *
   - Async function
   - Function declaration
   - Function expression
@@ -88,9 +88,9 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` *
 - Data structures
-  - `Array`
+  - `Array` *
   - `Map`
   - `Set`
   - `WeakMap`
@@ -114,9 +114,9 @@
   - `console`
   - Timers
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
+  - V8 ~
+  - Node.js ~
+  - npm *
+  - prettier *
   - MDN
   - TC39
